@@ -1,0 +1,4 @@
+int _val;
+char char_val;
+
+float x = 0.1;
